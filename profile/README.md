@@ -18,7 +18,7 @@ We believe in the power of community and are always on the lookout for contribut
 Looking for documentation? Our comprehensive guides and docs can be found at mutiple places, depending on the type of Product:
 
 1. Each publicly-accessible Product will have their documentation (1) on the Product's page on our website and (2) in the respective public GitHub Repo.
-2. Each other Product will have their documentation (1) on our website in the [BoilerplateHQ Docs](https://boilerplatehq.com/docs), (2) in the zip-file of the Product you purchased, and (3) in the respective private GitHub Repo, if you Pro Access. 
+2. Each other Product will have their documentation (1) on our website in the [BoilerplateHQ Docs](https://boilerplatehq.com/docs), (2) in the zip-file of the Product you purchased, and (3) in the respective private GitHub Repo. 
 
 Other than that: 
 
@@ -26,7 +26,7 @@ Other than that:
 * **FAQs**: Check out [our FAQs](https://boilerplatehq.com/#faq) for quick answers to common questions.
 
 ## 🍿 Fun Facts
-Did you know our founder was once bitten by a shark? Yes, you read that correctly — a shark (albeit a tiny one)! 
+Did you know that Till, the creator, was once bitten by a shark? Yes, you read that correctly — a shark (albeit a tiny one)! 
 It's safe to say we're no strangers to navigating treacherous waters, both in the ocean and in software development.
 
 ## Join Us
